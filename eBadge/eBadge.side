@@ -1,0 +1,22 @@
+eBadge.c
+Leds.c
+Leds.h
+Pads.c
+Pads.h
+SSD1306.c
+SSD1306.h
+SSD1306cmd.h
+MMA7660.c
+MMA7660.h
+MMA7660Reg.h
+Battery.c
+Battery.h
+eBadge.h
+>compiler=C
+>memtype=lmm main ram
+>optimize=-O2
+>-m32bit-doubles
+>-fno-exceptions
+>defs::-std=c99
+>-lm
+>BOARD::ACTIVITYBOARD
